@@ -3,3 +3,5 @@ how you doing?
 This was added by someone else
 Property1:True
 Property2:False
+Property3:Green
+Property4:Blue
